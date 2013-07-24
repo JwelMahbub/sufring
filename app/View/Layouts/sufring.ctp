@@ -103,7 +103,7 @@
 <!-- start html block -->
     <?php echo $this->element('header'); ?>
 	<?php echo $this->element('nev'); ?>
-	<?php echo $this->element('banner'); ?><?php echo $this->Js->alert('I am in the javascript');?>
+	<?php echo $this->element('banner'); ?>
 	<?php echo $this->element('content'); ?>
 	<?php echo $this->element('calender'); ?>
 	<?php echo $this->element('footer'); ?>
