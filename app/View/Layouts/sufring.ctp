@@ -108,8 +108,14 @@
 	<?php echo $this->element('calender'); ?>
 	<?php echo $this->element('footer'); ?>
 
-sadfadsf
+
 <!-- end html block -->
+asdfasdf
+asdffasdf
+asdfasdf
+asdfasdff
+asdfasdf
+asdfasdf
 
 </div>
 </body>
